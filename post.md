@@ -1,4 +1,4 @@
-## AirPair Editor Tips
+## AirPair Editor Tips on Edit Branch change
 
 As you type you'll see the preview pane update. The longer your posts gets, the less frequently it will refresh. To show the latest content immediately, click anywhere (*i.e. blur*) out of the editor.
 
